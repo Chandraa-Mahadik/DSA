@@ -4,10 +4,18 @@ input_arr = [10,20,30,40,50]
 input_str = "asdfghj"
 
 def reverse_array(arr):
+    """
+    Reverses the list 'arr' in-place.
+    Modifies the original list. Returns None.
+    Time:  O(n)
+    Space: O(1) extra
+    """
+
     left = 0
     right = len(arr) - 1
 
     while left < right:
+        # Swap the elements at left and right
         arr[left], arr[right] = arr[right], arr[left]
 
         left += 1
@@ -16,6 +24,5 @@ def reverse_array(arr):
     return arr
 
 
-# print(reverse_array(input_arr))
 str_list = list(input_str)
 print("".join(reverse_array(str_list)))
