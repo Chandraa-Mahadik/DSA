@@ -1,7 +1,6 @@
 # The Question: Write a Python function to reverse the elements of a given array (list) in-place without using any built-in reverse() method or slicing [::-1]. 
 
 input_arr = [10,20,30,40,50]
-input_str = "asdfghj"
 
 def reverse_array(arr):
     """
@@ -24,5 +23,4 @@ def reverse_array(arr):
     return arr
 
 
-str_list = list(input_str)
-print("".join(reverse_array(str_list)))
+print(reverse_array(input_arr))
