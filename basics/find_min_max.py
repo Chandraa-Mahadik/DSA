@@ -21,4 +21,6 @@ def find_min_max(arr):
         return min, max
     
 print(find_min_max(input_arr))
+
+
     
