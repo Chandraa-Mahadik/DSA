@@ -1,0 +1,174 @@
+
+
+---
+
+ Roadmap Overview
+
+- Total Duration: 100 days
+- Daily Practice: 4 problems (1 easy, 2 medium, 1 hard)
+- Focus: Concept clarity, internal working, multiple solutions, optimal approaches, complexity analysis
+- Language: Python
+
+---
+
+ Phase 1: Basics & Fundamentals (Days 1-15)
+
+# Topics Covered:
+- Python basics (lists, tuples, dictionaries, sets, strings)
+- Big-O notation, complexity analysis
+- Basic problem solving (loops, conditionals, recursion)
+- Introduction to DSA terms
+
+# Sample Problems:
+- Reverse a string/array
+- Find max/min in an array
+- Check if a string is palindrome
+- Count occurrences of each element in a list
+
+# Learning Goals:
+- Understand time and space complexity
+- Practice tracing recursion and iterative solutions
+- Compare brute force vs optimal approaches
+
+---
+
+ Phase 2: Arrays & Strings (Days 16-30)
+
+# Topics Covered:
+- Arrays: traversal, searching, sorting
+- Strings: manipulation, pattern matching
+- Two-pointer technique
+- Sliding window
+
+# Sample Problems:
+- Two Sum
+- Merge intervals
+- Longest substring without repeating characters
+- Rotate array
+
+# Learning Goals:
+- Understand how arrays are stored and accessed in memory
+- Analyze trade-offs between sorting, hashing, and two-pointer solutions
+- Learn how to optimize space and time for string operations
+
+---
+
+ Phase 3: Linked Lists (Days 31-40)
+
+# Topics Covered:
+- Singly, doubly, circular linked lists
+- Insertion, deletion, traversal
+- Cycle detection, merging, reversal
+
+# Sample Problems:
+- Reverse a linked list
+- Detect cycle in linked list
+- Merge two sorted linked lists
+- Remove nth node from end
+
+# Learning Goals:
+- Understand pointer mechanics and memory allocation
+- Analyze time complexity of operations in linked lists vs arrays
+- Explore multiple approaches for cycle detection (Floyd’s, hash set)
+
+---
+
+ Phase 4: Stacks & Queues (Days 41-50)
+
+# Topics Covered:
+- Stack (LIFO), Queue (FIFO)
+- Implement using lists and linked lists
+- Applications: balancing parentheses, BFS, DFS
+
+# Sample Problems:
+- Valid parentheses
+- Implement stack using queues
+- Implement queue using stacks
+- Next greater element
+
+# Learning Goals:
+- Understand internal structure of stacks/queues
+- Learn when to use which data structure for efficiency
+- Analyze recursion stack and iterative alternatives
+
+---
+
+ Phase 5: Trees & Graphs (Days 51-70)
+
+# Topics Covered:
+- Binary trees, BST, AVL trees
+- Tree traversal (inorder, preorder, postorder)
+- Graphs: adjacency list, matrix, DFS, BFS
+
+# Sample Problems:
+- Level order traversal
+- Validate BST
+- Lowest common ancestor
+- Clone graph
+
+# Learning Goals:
+- Understand tree/graph representations and traversal complexities
+- Compare recursive and iterative approaches
+- Learn graph algorithms and their applications
+
+---
+
+ Phase 6: Hashing & Heaps (Days 71-80)
+
+# Topics Covered:
+- Hash tables, sets, collision handling
+- Heap (min/max), priority queue
+- Applications: frequency counting, top K elements
+
+# Sample Problems:
+- Group anagrams
+- Top K frequent elements
+- Find median in a stream
+- Implement LRU cache
+
+# Learning Goals:
+- Analyze hash collision and trade-offs in collision handling
+- Learn heap operations and their complexities
+
+---
+
+ Phase 7: Advanced Topics (Days 81-100)
+
+# Topics Covered:
+- Dynamic programming (memoization, tabulation)
+- Greedy algorithms
+- Backtracking
+- Advanced graph algorithms (Dijkstra, MST, topological sort)
+
+# Sample Problems:
+- Coin change
+- Longest increasing subsequence
+- N-Queens
+- Shortest path in a graph
+
+# Learning Goals:
+- Understand recurrence relations and state transitions in DP
+- Compare greedy and DP approaches
+- Explore backtracking for combinatorial problems
+- Analyze graph algorithms for efficiency
+
+---
+
+ Daily Structure
+
+1. Concept Study: 1 hour (read, watch video, or review notes)
+2. Problem Solving: 2 hours (solve 4 problems)
+3. Complexity Analysis: 30 minutes (analyze time/space for each solution)
+4. Reflection: 30 minutes (compare approaches, note learnings)
+
+---
+
+ Additional Tips
+
+- Use platforms like LeetCode, HackerRank, or Codeforces for curated problems .
+- Track your progress and revisit tough problems weekly.
+- Participate in contests to simulate real-world scenarios.
+
+---
+
+This roadmap provides a step-by-step progression from fundamentals to advanced DSA mastery, focusing on both understanding and hands-on problem solving in Python. If you’d like a detailed day-wise calendar or a spreadsheet version, I can prepare that as well.
